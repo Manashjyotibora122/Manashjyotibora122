@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**Manashjyotibora122/Manashjyotibora122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Manashjyoti Bora 👋
+Aspiring Software Developer from Assam, India.
+Skills
+HTML
+CSS
+JavaScript
+React.js (Learning)
+Git & GitHub
+Projects
+Portfolio Website
+Calculator App
+Notes App
+Quiz App
+Movie App
+Blog Website
+Chat App
+AI Chatbot
+E-Commerce Website
+Goal
+Become a Professional Software Developer and AI Engineer.
