@@ -1,8 +1,8 @@
-Hi, I'm Manashjyoti Bora 👋
+# Hi, I'm Manashjyoti Bora 👋
 
 Aspiring Software Developer from Assam, India.
 
-Skills
+## 🚀 Skills
 
 - HTML
 - CSS
@@ -10,7 +10,7 @@ Skills
 - React.js (Learning)
 - Git & GitHub
 
-Projects
+## 💻 Projects
 
 - Portfolio Website
 - Weather App
@@ -19,6 +19,16 @@ Projects
 - Chat App
 - E-Commerce Website
 
-Goal
+## 🎯 Goal
 
 Become a Professional Software Developer and AI Engineer.
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/Manashjyotibora122
+- Portfolio: https://manashjyotibora122.github.io
+- LinkedIn: https://www.linkedin.com/in/manashjyoti-bora-323b97405
+
+## ⚡ Fun Fact
+
+I love building websites and learning new technologies.
