@@ -8,12 +8,23 @@ Passionate about building modern web applications and continuously learning new 
 
 ## 🚀 Skills
 
+### 🌐 Frontend
 - HTML5
 - CSS3
 - JavaScript (ES6+)
 - React.js (Learning)
-- Git & GitHub
 - Responsive Web Design
+
+### 🛠 Tools
+- Git
+- GitHub
+- VS Code
+
+### 📚 Currently Learning
+- Tailwind CSS
+- Node.js
+- Express.js
+- MongoDB
 
 ---
 
