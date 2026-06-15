@@ -1,21 +1,5 @@
 # Hi, I'm Manashjyoti Bora 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=500&lines=Aspiring+Full+Stack+Developer;Learning+React+and+MERN+Stack;Open+to+Internship+Opportunities" />
-
-### Aspiring Full Stack Web Developer | Assam, India 🇮🇳
-
-Passionate about building modern web applications and continuously learning new technologies.
-
-💡 Open to Internship Opportunities and Collaborations.
-
----
-
-## 🚀 Skills
-
-### 🌐 Frontend
-
-# Hi, I'm Manashjyoti Bora 👋
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=700&lines=Frontend+Developer;Building+Responsive+Web+Applications;JavaScript+%7C+API+Integration+%7C+UI+Development" />
 
 ### Frontend Developer | Assam, India 🇮🇳
