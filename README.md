@@ -4,9 +4,9 @@ Hi, I'm Manashjyoti Bora 👋
 
 💻 Full Stack Web Developer from Assam, India 🇮🇳
 
-I build responsive, scalable and user-focused web applications using modern web technologies.
+I'm passionate about building responsive, scalable and user-focused web applications using modern web technologies.
 
-🎯 Currently focused on React.js, Node.js, Express.js, MongoDB and REST APIs.
+🚀 Currently expanding my expertise in React.js, Node.js, Express.js and MongoDB while building real-world projects.
 
 💼 Open to Internships, Freelance Projects and Entry-Level Software Developer Opportunities.
 
@@ -14,25 +14,25 @@ I build responsive, scalable and user-focused web applications using modern web 
 
 🚀 Tech Stack
 
-Frontend
+🎨 Frontend
 
 - HTML5
 - CSS3
 - JavaScript (ES6+)
 - React.js
-- Responsive Design
+- Responsive Web Design
 - REST API Integration
 
-Backend
+⚙️ Backend
 
-- Node.js
-- Express.js
+- Node.js (Learning)
+- Express.js (Learning)
 
-Database
+🗄 Database
 
-- MongoDB
+- MongoDB (Learning)
 
-Tools
+🛠 Tools
 
 - Git
 - GitHub
@@ -55,9 +55,9 @@ Tools
 🎯 2026 Goals
 
 - Build Production-Ready Full Stack Applications
-- Contribute to Open Source
+- Master React.js & Node.js
 - Learn System Design
-- Master Backend Development
+- Contribute to Open Source
 - Secure a Software Developer Role
 
 ---
@@ -74,12 +74,25 @@ Tools
 
 ---
 
+🏆 GitHub Achievements
+
+https://github-profile-trophy.vercel.app/?username=Manashjyotibora122&theme=algolia&no-frame=true&margin-w=15
+
+---
+
 🌐 Connect With Me
 
 - 🌍 Portfolio: https://manashjyotibora122.github.io/portfolio-website/
 - 💼 LinkedIn: https://www.linkedin.com/in/manashjyoti-bora-323b97405
-- 📧 Email: your-email@example.com
+- 📧 Email: manashjyotibora122@gmail.com
+- 🐙 GitHub: https://github.com/Manashjyotibora122
 
 ---
 
-⭐ "Building software that solves real-world problems, one project at a time."
+👀 Profile Views
+
+https://komarev.com/ghpvc/?username=Manashjyotibora122&color=blue&style=flat
+
+---
+
+«"Code with purpose. Learn without limits. Build solutions that make an impact." 🚀»
