@@ -79,27 +79,61 @@
 
 💼 Job Portal App
 
-A responsive job portal built with modern web technologies featuring job listings, search functionality and a clean user interface.
+A modern job portal web application built with React.js and Vite, designed to provide a fast, responsive and intuitive job searching experience.
 
-🔗 Repository: https://github.com/Manashjyotibora122/job-portal-app
+✨ Key Features
+
+- 🔍 Smart Job Search Interface
+- 📱 Fully Responsive Design
+- ⚡ Fast Performance with Vite
+- 🎨 Clean & Modern User Interface
+
+🛠 Tech Stack
+React.js • Vite • JavaScript • CSS3
+
+📂 Repository
+https://github.com/Manashjyotibora122/job-portal-app
 
 ---
 
 🛒 Premium Tech Storefront
 
-A modern e-commerce storefront with responsive design, product showcase and intuitive shopping experience.
+A premium e-commerce storefront built with Next.js and TypeScript, featuring a modern shopping experience, responsive layouts and reusable UI components.
 
-🔗 Repository: https://github.com/Manashjyotibora122/premium-tech-storefront
+✨ Key Features
+
+- 🛍 Premium Product Showcase
+- 📱 Responsive Design
+- ⚡ Optimized Performance
+- 🎨 Elegant & Modern UI
+
+🛠 Tech Stack
+Next.js • TypeScript • React • Tailwind CSS
+
+📂 Repository
+https://github.com/Manashjyotibora122/premium-tech-storefront
 
 ---
 
 🌐 Portfolio Website
 
-My personal portfolio showcasing projects, skills and development journey.
+My personal developer portfolio showcasing projects, technical skills and professional journey with a clean and responsive design.
 
-🌍 Live Demo: https://manashjyotibora122.github.io/portfolio-website/
+✨ Key Features
 
-🔗 Repository: https://github.com/Manashjyotibora122/portfolio-website
+- 👨‍💻 Developer Profile
+- 💼 Project Showcase
+- 📱 Responsive Layout
+- 📧 Contact Section
+
+🛠 Tech Stack
+HTML5 • CSS3 • JavaScript
+
+🌍 Live Demo
+https://manashjyotibora122.github.io/portfolio-website/
+
+📂 Repository
+https://github.com/Manashjyotibora122/portfolio-website
 
 ---
 
