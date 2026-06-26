@@ -1,5 +1,11 @@
 # Hi, I'm Manashjyoti Bora 👋
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Manashjyotibora122&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Manashjyotibora122?label=Followers&style=flat" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Manashjyotibora122?affiliations=OWNER&style=flat" alt="Stars" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React.js+%7C+JavaScript+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
