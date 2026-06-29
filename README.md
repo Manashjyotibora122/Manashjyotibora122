@@ -75,6 +75,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Manashjyotibora122/Manashjyotibora122/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
 ## 🌟 Featured Projects
 
 ### 💼 Job Portal App
